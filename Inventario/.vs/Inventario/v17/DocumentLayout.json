@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Inventario\\",
+  "WorkspaceRootPath": "C:\\Users\\ruben\\Documents\\GitHub\\Inventario-POO\\Inventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BE3EF79-2D40-42CA-85E3-86145A6E51B3}|Inventario.vcxproj|C:\\Users\\User\\source\\repos\\Inventario\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3BE3EF79-2D40-42CA-85E3-86145A6E51B3}|Inventario.vcxproj|C:\\Users\\ruben\\Documents\\GitHub\\Inventario-POO\\Inventario\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3BE3EF79-2D40-42CA-85E3-86145A6E51B3}|Inventario.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\Inventario-POO\\Inventario\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\Source.cpp",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\Inventario-POO\\Inventario\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAqwNMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-03T16:18:23.645Z",
               "EditorCaption": ""
